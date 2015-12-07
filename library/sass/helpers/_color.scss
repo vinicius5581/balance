@@ -1,0 +1,6 @@
+@mixin color(){
+  color: $color;
+  opacity: $opacity;
+}
+
+@mixing gradient(){}
