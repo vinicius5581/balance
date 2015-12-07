@@ -1,0 +1,9 @@
+@mixin color(){
+  color: $color;
+  opacity: $opacity;
+}
+
+/*
+  color //Sets the color of text  1
+  opacity //Sets the opacity level for an element
+*/

@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"static"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				],
+				[
+					"Packages/sublime-lightning-master/lightning.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 318.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bui",
+				"Build With: SASS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"pakca",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 377.0,
+		"history":
+		[
+			"force",
+			"clear",
+			"echo oy",
+			"$PATH",
+			"echo $PATH",
+			"force",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/vinicius/Desktop/codepenhtml",
+		"/Users/vinicius/Sites/anatnas/app/themes/_brand-a.scss",
+		"/Users/vinicius/Sites/anatnas/app/css/_style.css",
+		"/Users/vinicius/Sites/anatnas/app/themes/_default.scss",
+		"/Users/vinicius/Sites/anatnas/index.html",
+		"/Users/vinicius/Desktop/ifstatement-fontstyle.c",
+		"/Users/vinicius/Sites/salesforce/sfdap/metadata/aura/digitalAdvice_HouseholdAccounts/digitalAdvice_HouseholdAccounts.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/CalculateTotal/CalculateTotalController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/CalculateTotal/.manifest",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/PhoneNumberInput/PhoneNumberInput.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/PhoneNumberEvent/PhoneNumberEvent.evt",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/PhoneNumberOutput/PhoneNumberOutput.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/PhoneNumberOutput/PhoneNumberOutputController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/PhoneNumberInput/PhoneNumberInputController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/receiver/receiverController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/receiver/receiver.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/sender/senderController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/sender/sender.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/sandboxApp/sandboxApp.app",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/theMessage/theMessage.evt",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/eventsTester/eventsTester.app",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/message/message.evt",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/eventsButtons/eventsButtonsController.js",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/eventsButtons/eventsButtons.cmp",
+		"/Users/vinicius/Sites/salesforce/sandbox/metadata/aura/mediaQueriesTester/mediaQueriesTester.cmp",
+		"/Users/vinicius/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/vinicius/Library/Application Support/Sublime Text 3/Packages/sublime-lightning-master/Side Bar.sublime-menu",
+		"/Users/vinicius/Sites/salesforce/sfdap/metadata/aura/digitalAdvice_MainNav/digitalAdvice_MainNav.cmp",
+		"/Users/vinicius/Library/Application Support/Sublime Text 3/Packages/sublime-lightning-master/lightning.sublime-keymap",
+		"/Users/vinicius/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/vinicius/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/vinicius/Sites/vinisblog/index.html.en",
+		"/Users/vinicius/Sites/vinisblog/index.html",
+		"/Users/vinicius/Sites/index.html.en"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/vinicius/Sites/metrocaffe",
+			"/Users/vinicius/Sites/towertours"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$color-brand-1",
+			"'!E3 = '",
+			"!G5 = 'F",
+			"!F3 = '",
+			"!G3 = 'F",
+			"!H3 = '",
+			"!I3 = 'F",
+			"!I2 = ",
+			"!H2 =",
+			"!G2 = ",
+			"'!F2 = '",
+			"'!E2 = '",
+			"!H2",
+			"'!G2 = '",
+			"!G2",
+			"!F2",
+			"!E2",
+			"2",
+			"IF",
+			"Error establishing a database connection",
+			"define",
+			"\n<",
+			"\n        String investoruserID = UserInfo.getUserId();\n",
+			"Test123456Test"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 98.0
+	},
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "balance.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

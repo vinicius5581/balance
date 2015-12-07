@@ -1,0 +1,75 @@
+//http://www.w3schools.com/cssref/default.asp
+
+.fontsAllProperties{
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 10 px; //
+  font-weight: normal; //normal|bold|bolder|lighter|100|200|300|400|500|600|700|800|900|initial|inherit
+  font-style: none; //normal|italic|oblique|initial|inherit
+  font-variant: normal; //normal|small-caps|initial|inherit;
+  color: #FFFFFF; //rgb(255,255,255)|rgba(255, 0, 0, 0.3)|hsl(120, 60%, 70%)|hsla(120, 60%, 70%, 0.3)|white
+  text-shadow: 2px 2px 8px #FF0000; //h-shadow v-shadow blur-radius color|none|initial|inherit
+  text-indent: 5px; //length|initial|inherit
+  text-decoration: none; //none|underline|overline|line-through|initial|inherit
+  text-overflow: ellipsis; //clip|ellipsis|string|initial|inherit
+  text-transform: none; //none|capitalize|uppercase|lowercase|initial|inherit
+  text-align: initial ; //left|right|center|justify|initial|inherit
+  direction: initial; //ltr|rtl|initial|inherit
+  word-spacing: normal; //normal|length|initial|inherit
+  letter-spacing: normal; //normal|length|initial|inherit
+  line-height: 1; //normal|number|length|initial|inherit
+  word-wrap: normal; //normal|break-word|initial|inherit
+  word-break: normal; //normal|break-all|keep-all|initial|inherit
+  opacity: 1; //number|initial|inherit
+  //text-align-last:; //NOT SUPPORTED BY CHROME
+  //text-justify:; //NOT SUPPORTED BY CHROME
+  //text-emphasis:; //NOT SUPPORTED 
+}
+
+/* Those are properties that affect the space that the text takes. */
+
+.fonts-dimensional{}
+
+
+hanging-punctuation Specifies whether a punctuation character may be placed outside the line box  3
+hyphens Sets how to split words to improve the layout of paragraphs 3
+letter-spacing  Increases or decreases the space between characters in a text 1
+line-break  Specifies how/if to break lines 3
+line-height Sets the line height  1
+overflow-wrap Specifies whether or not the browser may break lines within words in order to prevent overflow (when a string is too long to fit its containing box)  3
+tab-size  Specifies the length of the tab-character 3
+text-align  Specifies the horizontal alignment of text  1
+text-align-last Describes how the last line of a block or a line right before a forced line break is aligned when text-align is "justify" 3
+text-combine-upright  Specifies the combination of multiple characters into the space of a single character 3
+text-indent Specifies the indentation of the first line in a text-block 1
+text-justify  Specifies the justification method used when text-align is "justify"  3
+text-transform  Controls the capitalization of text 1
+white-space Specifies how white-space inside an element is handled  1
+word-break  Specifies line breaking rules for non-CJK scripts 3
+word-spacing  Increases or decreases the space between words in a text  1
+word-wrap Allows long, unbreakable words to be broken and wrap to the next line
+text-decoration //Specifies the decoration added to text  1
+text-decoration-color //Specifies the color of the text-decoration  3
+text-decoration-line  //Specifies the type of line in a text-decoration 3
+text-decoration-style //Specifies the style of the line in a text decoration  3
+text-shadow //Adds shadow to text 3
+text-underline-position //Specifies the position of the underline which is set using the text-decoration property
+@font-face  //A rule that allows websites to download and use fonts other than the "web-safe" fonts 3
+@font-feature-values  //Allows authors to use a common name in font-variant-alternate for feature activated differently in OpenType 3
+font  //Sets all the font properties in one declaration 1
+font-family //Specifies the font family for text  1
+font-feature-settings //Allows control over advanced typographic features in OpenType fonts 3
+font-kerning  //Controls the usage of the kerning information (how letters are spaced)  3
+font-language-override  //Controls the usage of language-specific glyphs in a typeface  3
+font-size //Specifies the font size of text 1
+font-size-adjust  //Preserves the readability of text when font fallback occurs 3
+font-stretch  //Selects a normal, condensed, or expanded face from a font family  3
+font-style  //Specifies the font style for text 1
+font-synthesis  //Controls which missing typefaces (bold or italic) may be synthesized by the browser 3
+font-variant  //Specifies whether or not a text should be displayed in a small-caps font  1
+font-variant-alternates //Controls the usage of alternate glyphs associated to alternative names defined in @font-feature-values  3
+font-variant-caps //Controls the usage of alternate glyphs for capital letters  3
+font-variant-east-asian //Controls the usage of alternate glyphs for East Asian scripts (e.g Japanese and Chinese)  3
+font-variant-ligatures  //Controls which ligatures and contextual forms are used in textual content of the elements it applies to 3
+font-variant-numeric  //Controls the usage of alternate glyphs for numbers, fractions, and ordinal markers  3
+font-variant-position //Controls the usage of alternate glyphs of smaller size positioned as superscript or subscript regarding the baseline of the font  3
+font-weight //Specifies the weight of a font
