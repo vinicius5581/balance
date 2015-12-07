@@ -1,0 +1,9 @@
+body > section{
+	border: 1px solid blue;
+}
+
+div{
+	@include size(100px);
+	background:blue;
+}
+
